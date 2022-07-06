@@ -1,2 +1,5 @@
 # Summer2022
-Practice repository 
+
+This is a new practice repository project
+
+## Section One
